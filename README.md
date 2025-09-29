@@ -19,7 +19,7 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -27,7 +27,7 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -38,7 +38,7 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="mongodb"
     title="mongodb" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />
@@ -54,7 +54,7 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="aws" 
     title="aws"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -62,7 +62,7 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="spark"
     title="spark" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
@@ -71,15 +71,15 @@ Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergip
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 12px;" 
+    width="50px" 
+    style="padding-right: 1px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
