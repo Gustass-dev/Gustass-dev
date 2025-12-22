@@ -1,6 +1,5 @@
 # 👨🏾‍💻 Gustavo Silva
 
-**`Engenheiro de Dados`**
 
 Me chamo Gustavo Silva Santos, tenho 19 anos e sou natural de Estância - Sergipe. Concluí o ensino médio no SENAI, com o curso técnico em <strong>Redes de Computadores</strong>. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Tiradentes. Sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades, explorando novas ferramentas e tendências da área. Tenho como objetivo construir uma carreira sólida no setor de TI, contribuindo com soluções inovadoras e eficientes que gerem impacto positivo para empresas e pessoas.
 
